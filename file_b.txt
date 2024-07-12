@@ -1,0 +1,2 @@
+Master Branch: File B
+Line 2: New Status
